@@ -48,3 +48,4 @@ foreach ($array as $item) {
         UploadFile($file_name, $file_name, $folder);
     }
 }
+echo 'start';
